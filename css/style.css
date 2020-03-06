@@ -158,12 +158,12 @@ header .nav .caret {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #8a1c2c;
+  background-color: #121212;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color:  #8a1c2c;
+  background-color:  #121212;
 }	
 	
 
