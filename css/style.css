@@ -390,7 +390,7 @@ font-weight: 700;
 .testimonial-solid {
 padding: 50px 0 60px 0;
 margin: 0 0 0 0;
-background: #EFEFEF;
+background: #121212;
 text-align: center;
 }
 .testi-icon-area {
@@ -472,7 +472,7 @@ background-size: cover;
 -ms-background-size: cover;
 color: black;}
 .testimonial-solid p {
-color: #1F1F1F;
+color: #FFFFFF;
 font-size: 16px;
 line-height: 30px;
 font-style: normal;
