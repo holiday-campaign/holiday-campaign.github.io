@@ -148,7 +148,7 @@ header  .navbar-nav > li > a {
 
 
 .dropdown-menu li a:hover {
-    color: #fff !important;
+    color: #FBFAE8 !important;
 }
 
 header .nav .caret {
@@ -324,7 +324,7 @@ display: inline-block;
 
 #featured .flexslider {
 	padding:0;  
-	background: #fff; 
+	background: #FBFAE8; 
 	position: relative; 
 	zoom: 1;
 }
@@ -403,7 +403,7 @@ color: #000;}
 .testi-icon-area .quote {
 padding: 15px 0 0 0;
 margin: 0 0 0 0;
-background: #ffffff;
+background: #FBFAE8;
 text-align: center;
 color: #26AFF0;
 display: inline-table;
@@ -1128,7 +1128,7 @@ ul.team-detail li ul.social-network li i {
 
  
 .pricing-title{
-	background:#fff;
+	background:#FBFAE8;
 	text-align:center;
 	padding:10px 0 10px 0;
 }
